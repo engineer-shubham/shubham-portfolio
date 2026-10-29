@@ -1,10 +1,10 @@
 SHUBHAM JAIN PORTFOLIO
 
-Five-page static portfolio: Home, About, Experience, Selected Work and Contact. Open index.html in a browser to view the site locally.
+Six-page static portfolio: Home, About, Experience, Selected Work, Insights and Contact. Open index.html in a browser to view the site locally.
 
 The assets/ folder contains four professional photos supplied by Shubham, six editorial project images, and downloadable copies of the supplied CV and cover letter. Project images represent the relevant work themes; they are not screenshots from client systems.
 
-The public pages include Shubham's phone number and links to downloadable career documents, at his request.
+The public pages include Shubham's phone number and links to downloadable career documents, at his request. The contact form opens a pre-addressed email draft; it does not store messages on the website. The Insights page is ready for selected LinkedIn post links and excerpts. The Selected Work page includes a curated set of short excerpts from LinkedIn recommendations, with a link back to the recommendation section.
 
 DEPLOY TO VERCEL FROM VISUAL STUDIO CODE
 1. In Visual Studio Code, choose File > Open Folder and select this shubham-jain-portfolio folder.
